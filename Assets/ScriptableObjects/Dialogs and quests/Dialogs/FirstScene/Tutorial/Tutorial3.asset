@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545becaba4857c2449c417d526523cc9, type: 3}
+  m_Name: Tutorial3
+  m_EditorClassIdentifier: 
+  text: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u041F\u041A\u041C, \u0447\u0442\u043E\u0431\u044B
+    \u043D\u0430\u043F\u0440\u0430\u0432\u0438\u0442\u044C \u044E\u043D\u0438\u0442\u0430
+    \u0432 \u0432\u044B\u0431\u0440\u0430\u043D\u043D\u0443\u044E \u0442\u043E\u0447\u043A\u0443."
+  startQuests:
+  - {fileID: 11400000, guid: 3ef856f12bcbc694abd5e4586b931e32, type: 2}
+  endQuests:
+  - {fileID: 11400000, guid: 4ece366deaf8ae847b2886a951d872f0, type: 2}
+  phraseOnKeys:
+  - key: 324
+    dialog: {fileID: 11400000, guid: 4e156a3bf9f4c7141ba201eaa520d986, type: 2}
+  newLocation: 
+  situationSprite: {fileID: 0}

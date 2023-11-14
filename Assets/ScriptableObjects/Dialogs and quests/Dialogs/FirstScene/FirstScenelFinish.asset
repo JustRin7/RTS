@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545becaba4857c2449c417d526523cc9, type: 3}
+  m_Name: FirstScenelFinish
+  m_EditorClassIdentifier: 
+  text: "\u0420\u0435\u0441\u0443\u0440\u0441\u044B \u0441\u043E\u0431\u0440\u0430\u043D\u044B,
+    \u0442\u0435\u043F\u0435\u0440\u044C \u043C\u043E\u0436\u043D\u043E \u0438...
+    \u0427\u0442\u043E \u044D\u0442\u043E? \u042D\u0442\u043E \u043F\u043E\u0440\u0442\u0430\u043B?
+    \u0414\u0430, \u0442\u043E\u0447\u043D\u043E, \u044D\u0442\u043E \u043E\u043D.
+    \u0418\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u043E, \u043A\u0443\u0434\u0430
+    \u043E\u043D \u043F\u0440\u0438\u0432\u0435\u0434\u0435\u0442?"
+  startQuests:
+  - {fileID: 11400000, guid: 7a2cac39420e89842a4002b1a44a7aa8, type: 2}
+  endQuests:
+  - {fileID: 11400000, guid: d52735729edbb00419b12f00d30e55d4, type: 2}
+  - {fileID: 11400000, guid: 04a8e84d8cd7f7b4cb302464a7d27b0e, type: 2}
+  - {fileID: 11400000, guid: 250a8dc812495f2479e3c6c1fb6c4040, type: 2}
+  - {fileID: 11400000, guid: 7e7150d4df9b54748abac9c635ae84cb, type: 2}
+  phraseOnKeys:
+  - key: 32
+    dialog: {fileID: 0}
+  newLocation: 
+  situationSprite: {fileID: 0}

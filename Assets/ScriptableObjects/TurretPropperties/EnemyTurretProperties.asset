@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf6c94db12e28e4381cf9044f7c3e48, type: 3}
+  m_Name: EnemyTurretProperties
+  m_EditorClassIdentifier: 
+  m_Mode: 0
+  m_ProjectilePrefab: {fileID: 3133171604999440616, guid: b0af87a73ce9ebc44918947d3564e7f1, type: 3}
+  m_RateOfFire: 5
+  m_AmmoUsage: 0
+  m_LaunchSFX: {fileID: 8300000, guid: a40c792bff15dc5469da4236d5e3b231, type: 3}
